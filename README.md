@@ -1,2 +1,2 @@
 # React-Anime-Blog
-Anime Blog made in React
+An anime website blog and a short game on the ACE engine, intergated and made in React
